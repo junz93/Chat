@@ -1,0 +1,16 @@
+﻿生成启动时间为 2014/6/3 9:25:42。
+     1>项目“e:\ZhJ\documents\visual studio 2013\Projects\Chat\Chat\Chat.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Chat.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChatDlg.cpp
+         ChatDlg.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\ZhJ\documents\visual studio 2013\Projects\Chat\Debug\Chat.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\ZhJ\documents\visual studio 2013\Projects\Chat\Debug\Chat.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\ZhJ\documents\visual studio 2013\Projects\Chat\Debug\Chat.lib" /MACHINE:X86 Debug\Chat.res
+         Debug\Chat.obj
+         Debug\ChatDlg.obj
+         Debug\stdafx.obj
+         Chat.vcxproj -> e:\ZhJ\documents\visual studio 2013\Projects\Chat\Debug\Chat.exe
+     1>已完成生成项目“e:\ZhJ\documents\visual studio 2013\Projects\Chat\Chat\Chat.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.54
